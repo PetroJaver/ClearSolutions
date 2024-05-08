@@ -1,0 +1,16 @@
+INSERT INTO users (email, first_name, last_name, birth_date, address, phone_number) VALUES
+                                                                                    ('user1@example.com', 'John', 'Doe', '1990-01-01', '123 Main St', '+380-123-456-7890'),
+                                                                                    ('user2@example.com', 'Jane', 'Smith', '1991-02-02', '456 Elm St', '+380-987-654-3210'),
+                                                                                    ('user3@example.com', 'Alice', 'Johnson', '1992-03-03', '789 Oak St', '+380-555-123-4567'),
+                                                                                    ('user4@example.com', 'Bob', 'Brown', '1993-04-04', '101 Pine St', '+380-111-222-3333'),
+                                                                                    ('user5@example.com', 'Emily', 'Taylor', '1994-05-05', '202 Maple St', '+380-444-555-6666'),
+                                                                                    ('user6@example.com', 'Michael', 'Lee', '1995-06-06', '303 Cedar St', '+380-777-888-9999'),
+                                                                                    ('user7@example.com', 'Sophia', 'Anderson', '1996-07-07', '404 Birch St', '+380-999-888-7777'),
+                                                                                    ('user8@example.com', 'William', 'Wong', '1997-08-08', '505 Spruce St', '+380-666-555-4444'),
+                                                                                    ('user9@example.com', 'Olivia', 'Chen', '1998-09-09', '606 Fir St', '+380-333-222-1111'),
+                                                                                    ('user10@example.com', 'James', 'Garcia', '1999-10-10', '707 Sequoia St', '+380-222-333-4444'),
+                                                                                    ('user11@example.com', 'Emma', 'Martinez', '2000-11-11', '808 Redwood St', '+380-444-333-2222'),
+                                                                                    ('user12@example.com', 'Liam', 'Lopez', '2001-12-12', '909 Willow St', '+380-777-666-5555'),
+                                                                                    ('user13@example.com', 'Ava', 'Gonzalez', '2002-01-13', '010 Birch St', '+380-888-999-0000'),
+                                                                                    ('user14@example.com', 'Noah', 'Perez', '2003-02-14', '121 Oak St', '+380-123-456-7890'),
+                                                                                    ('user15@example.com', 'Isabella', 'Rodriguez', '2004-03-15', '232 Pine St', '+380-987-654-3210');
