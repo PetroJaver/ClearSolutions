@@ -1,0 +1,17 @@
+{
+  "status": 400,
+  "errors": [
+    {
+      "detail": "The field 'birthDate' must not be null"
+    },
+    {
+      "detail": "The field 'firstName' must not be blank"
+    },
+    {
+      "detail": "The field 'email' must not be blank"
+    },
+    {
+      "detail": "The field 'lastName' must not be blank"
+    }
+  ]
+}

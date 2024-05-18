@@ -1,0 +1,6 @@
+{
+  "status": 500,
+  "error": {
+    "detail": "Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: \"test\""
+  }
+}

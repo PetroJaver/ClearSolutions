@@ -1,0 +1,8 @@
+{
+  "status": 400,
+  "errors": [
+    {
+      "detail": "Birth day range is invalid"
+    }
+  ]
+}

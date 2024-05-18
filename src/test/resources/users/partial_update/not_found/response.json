@@ -1,0 +1,6 @@
+{
+  "status": 404,
+  "error": {
+    "detail": "Not found the user with id=2"
+  }
+}

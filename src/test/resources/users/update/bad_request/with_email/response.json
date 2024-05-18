@@ -1,0 +1,8 @@
+{
+  "status": 400,
+  "errors": [
+    {
+      "detail": "The field 'email' must be a well-formed email address"
+    }
+  ]
+}

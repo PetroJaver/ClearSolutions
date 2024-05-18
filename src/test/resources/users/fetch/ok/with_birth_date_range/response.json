@@ -1,0 +1,56 @@
+{
+  "pageable": {
+    "pageNumber": 0,
+    "pageSize": 10,
+    "sort": {
+      "empty": true,
+      "sorted": false,
+      "unsorted": true
+    },
+    "offset": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "last": true,
+  "totalElements": 3,
+  "totalPages": 1,
+  "first": true,
+  "size": 10,
+  "number": 0,
+  "sort": {
+    "empty": true,
+    "sorted": false,
+    "unsorted": true
+  },
+  "numberOfElements": 3,
+  "empty": false,
+  "data": [
+    {
+      "id": 2,
+      "email": "test2@test.com",
+      "firstName": "Test2",
+      "lastName": "Test2",
+      "birthDate": "2000-02-02",
+      "address": "Test2",
+      "phoneNumber": "+380-000-000-0000"
+    },
+    {
+      "id": 3,
+      "email": "test1@test.com",
+      "firstName": "Test1",
+      "lastName": "Test1",
+      "birthDate": "1995-01-01",
+      "address": "Test1",
+      "phoneNumber": "+380-000-000-0000"
+    },
+    {
+      "id": 4,
+      "email": "test4@test.com",
+      "firstName": "Test4",
+      "lastName": "Test4",
+      "birthDate": "1990-04-04",
+      "address": "Test4",
+      "phoneNumber": "+380-000-000-0000"
+    }
+  ]
+}

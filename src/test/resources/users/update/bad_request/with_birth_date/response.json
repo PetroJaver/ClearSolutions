@@ -1,0 +1,6 @@
+{
+  "status": 400,
+  "error": {
+    "detail": "JSON parse error: Cannot deserialize value of type `java.time.LocalDate` from String \"1990-0101\": Failed to deserialize java.time.LocalDate: (java.time.format.DateTimeParseException) Text '1990-0101' could not be parsed at index 7"
+  }
+}

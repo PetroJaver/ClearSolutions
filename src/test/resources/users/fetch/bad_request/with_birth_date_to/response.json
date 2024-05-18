@@ -1,0 +1,8 @@
+{
+  "status": 400,
+  "errors": [
+    {
+      "detail": "The field 'birthDateTo' Failed to convert property value of type 'java.lang.String' to required type 'java.time.LocalDate' for property 'birthDateTo'; Failed to convert from type [java.lang.String] to type [@org.springframework.format.annotation.DateTimeFormat java.time.LocalDate] for value [1000-0101]"
+    }
+  ]
+}
